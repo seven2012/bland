@@ -1,0 +1,27 @@
+p{
+	color:red;
+}
+.rside{
+    float:right;
+}
+.rside dd{
+     margin-left: 0;
+}
+h3{
+    margin-left: 60px;
+}
+h1{
+    color:#626262;
+}
+dt{
+    font-family: Microsoft YaHei;
+}
+a{
+    text-decoration: none;
+}
+ol li{
+    font-size: small;
+}
+dl dt{
+    font-weight: bold;
+}
